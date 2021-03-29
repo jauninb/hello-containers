@@ -1,3 +1,3 @@
 Sample application packaged as a container 
 
-Updated 1
+Updated 2
